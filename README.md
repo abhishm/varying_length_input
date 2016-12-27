@@ -1,0 +1,1 @@
+In this repositry, I will be teaching about handling the varying length input inTensorflow. Mainly, I will be teaching about two important methodology, bucketing and padding that are used to handle the varying length inputs for RNN.
